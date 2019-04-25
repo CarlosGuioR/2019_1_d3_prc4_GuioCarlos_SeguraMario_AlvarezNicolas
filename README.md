@@ -71,7 +71,7 @@ En esta opcion se le pide que ingrese los datos que quiere modificar,se envian a
 En esta opcion se me muestra la informacion del cliente y de las cuentas.
 
 
-##Comunicacion 
+## Comunicacion 
 
 El proceso de la interfaz del funcionario y de la interfaz del cliente son diferentes por lo que es necesario compartir la informacion, en este caso se hizo por medio de tuperias FIFO, aunque la sintaxis en cada lenguaje de programacion es diferente, la idea o tematica del mismo es igual, es por esto que se puede realizar la comunicacion entre estos dos lenguajes de programacion.
 
